@@ -16,12 +16,18 @@ function Hero() {
       <h1 className="w-[90%] text-[2.8125rem] font-bold leading-tight md:text-6xl">
         {t("hero.title")}
       </h1>
-      <p className=" mt-4 max-w-2xl text-2xl text-slate-100 md:text-[1.6875rem]">{t("hero.subtitle")}</p>
+      <p className="mt-4 max-w-2xl text-lg text-slate-100 md:text-[1.6875rem]">{t("hero.subtitle")}</p>
       <div className="mt-6 flex flex-wrap gap-3">
-        <Link className="rounded bg-white px-6 py-3 text-xl font-semibold text-brand" to="/services">
+        <Link
+          className="rounded bg-white px-4 py-2 text-base font-semibold text-brand md:px-6 md:py-3 md:text-xl"
+          to="/services"
+        >
           {t("hero.ctaPrimary")}
         </Link>
-        <Link className="rounded border border-white px-6 py-3 text-xl font-semibold text-white" to="/contact">
+        <Link
+          className="rounded border border-white px-4 py-2 text-base font-semibold text-white md:px-6 md:py-3 md:text-xl"
+          to="/contact"
+        >
           {t("hero.ctaSecondary")}
         </Link>
       </div>
