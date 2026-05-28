@@ -26,6 +26,8 @@ function ServicesPage() {
             key={service.title}
             title={service.title}
             backgroundImage={serviceBackgrounds[index]}
+            textScale={1.5}
+            alignTopCenter
           />
         ))}
       </div>

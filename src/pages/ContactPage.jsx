@@ -18,6 +18,10 @@ function ContactPage() {
             <span className="font-semibold">{t("contact.emailLabel")}:</span> {t("contact.email")}
           </p>
           <p>
+            <span className="font-semibold">{t("contact.phoneLabel")}:</span>{" "}
+            <span className="whitespace-pre-line">{t("contact.phone")}</span>
+          </p>
+          <p>
             <span className="font-semibold">{t("contact.hoursLabel")}:</span> {t("contact.hours")}
           </p>
         </div>

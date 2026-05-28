@@ -26,10 +26,11 @@ function HomePage() {
         <div className="grid grid-cols-1 gap-4 md:grid-cols-2">
           {highlightedServices.map((item, index) => (
             <ServiceCard
-              description={item.description}
+
               key={item.title}
               title={item.title}
               backgroundImage={serviceBackgrounds[index]}
+              textScale={1.8}
             />
           ))}
         </div>

@@ -8,7 +8,7 @@
     "contact": "Contact"
   },
   "hero": {
-    "title": "Your trusted sourcing and export partner",
+    "title": "Your Sourcing and Trading Partner",
     "subtitle": "GlobaLink is a China-based sourcing and trading partner that helps businesses simplify purchasing, production coordination, quality control, and international exports.",
     "ctaPrimary": "View Services",
     "ctaSecondary": "Contact Us"
@@ -63,16 +63,18 @@
   },
   "gallery": {
     "title": "Product Shipping Gallery",
-    "subtitle": "A preview grid. Replace placeholders with your final shipping product photos from assets."
+    "subtitle": "Photos from our daily operations."
   },
   "contact": {
     "title": "Contact Us",
     "addressLabel": "Address",
     "emailLabel": "Email",
+    "phoneLabel": "Phone",
     "hoursLabel": "Hours",
-    "address": "Update with your office address",
-    "email": "info@globallink.com",
-    "hours": "Mon - Sat 09:00 - 18:00",
+    "address": "浙江省金华市义乌市宾王市场C区1078\n伽马管理咨询有限公司\nNo. 1073, Zone C, Binwang Market, Yiwu City, Jinhua City, Zhejiang Province",
+    "email": "globalink@gmail.com",
+    "phone": "13520053653 🇦🇱🇬🇧\n15712819628 🇨🇳",
+    "hours": "06:00 - 17:00",
     "formTitle": "Send a Message",
     "fields": {
       "name": "Name",

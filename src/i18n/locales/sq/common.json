@@ -63,16 +63,18 @@
   },
   "gallery": {
     "title": "Galeria e Dërgesave të Produkteve",
-    "subtitle": "Një pamje paraprake. Zëvendësoni vendmbajtëset me fotot finale të produkteve nga assets."
+    "subtitle": "Foto nga puna jonë e përditshme."
   },
   "contact": {
     "title": "Na Kontaktoni",
     "addressLabel": "Adresa",
     "emailLabel": "Email",
+    "phoneLabel": "Telefon",
     "hoursLabel": "Orari",
-    "address": "Përditësojeni me adresën e zyrës suaj",
-    "email": "info@globallink.com",
-    "hours": "Hën - Sht 09:00 - 18:00",
+    "address": "浙江省金华市义乌市宾王市场C区1078\n伽马管理咨询有限公司\nNo. 1073, Zone C, Binwang Market, Yiwu City, Jinhua City, Zhejiang Province",
+    "email": "globalink@gmail.com",
+    "phone": "13520053653 🇦🇱🇬🇧\n15712819628 🇨🇳",
+    "hours": "06:00 - 17:00",
     "formTitle": "Dërgoni Mesazh",
     "fields": {
       "name": "Emri",

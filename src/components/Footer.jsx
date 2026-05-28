@@ -14,6 +14,9 @@ function Footer() {
           {t("contact.emailLabel")}: {t("contact.email")} | {t("contact.hoursLabel")}:{" "}
           {t("contact.hours")}
         </p>
+        <p className="whitespace-pre-line">
+          {t("contact.phoneLabel")}: {t("contact.phone")}
+        </p>
         <p>
           {year} {t("siteName")} - {t("footer.rights")}
         </p>
