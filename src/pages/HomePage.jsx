@@ -9,13 +9,13 @@ function HomePage() {
 
   const highlightedServices = t("services.items", { returnObjects: true }).slice(0, 4);
   const serviceBackgrounds = [
-    "/assets/factory.jpg",
-    "/assets/priceNeg.jpg",
-    "/assets/inspect.jpg",
-    "/assets/communication.jpg", 
-    "/assets/logistics.jpg",
-    "/assets/scam.jpg",
-    "/assets/orders.jpg",
+    "/assets/gallery/factory.jpg",
+    "/assets/gallery/priceNeg.jpg",
+    "/assets/gallery/inspect.jpg",
+    "/assets/gallery/communication.jpg", 
+    "/assets/gallery/logistics.jpg",
+    "/assets/gallery/scam.jpg",
+    "/assets/gallery/orders.jpg",
   ];
 
   return (

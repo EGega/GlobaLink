@@ -5,7 +5,7 @@ function Hero() {
   const { t } = useTranslation();
   const heroStyle = {
     backgroundImage:
-      "linear-gradient(rgba(3, 7, 18, 0.5), rgba(3, 7, 18, 0.5)), url('/assets/container.jpg')",
+      "linear-gradient(rgba(3, 7, 18, 0.5), rgba(3, 7, 18, 0.5)), url('/assets/gallery/container.jpg')",
   };
 
   return (

@@ -23,7 +23,7 @@ function Header() {
     <header className="sticky top-0 z-20 border-b border-slate-200 bg-white/95 backdrop-blur">
       <div className="mx-auto flex w-full max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <img
-          src="/assets/textLogo.jpeg"
+          src="/assets/gallery/textLogo.jpeg"
           alt={t("siteName")}
           className="h-10 w-auto"
         />
