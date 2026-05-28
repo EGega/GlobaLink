@@ -1,0 +1,91 @@
+{
+  "siteName": "GlobaLink",
+  "nav": {
+    "home": "Kreu",
+    "about": "Rreth Nesh",
+    "services": "Shërbimet",
+    "gallery": "Galeria",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Partneri juaj i besuar për burim dhe eksport",
+    "subtitle": "GlobaLink eshte nje partner me baze ne Kine per sourcing dhe tregti, qe i ndihmon bizneset te thjeshtojne blerjet, koordinimin e prodhimit, kontrollin e cilesise dhe eksportet e sigurta.",
+    "ctaPrimary": "Shiko Shërbimet",
+    "ctaSecondary": "Na Kontaktoni"
+  },
+  "about": {
+    "title": "Rreth GlobaLink",
+    "description": "GlobaLink eshte nje partner me baze ne Kine per sourcing dhe tregti qe i ndihmon bizneset te thjeshtojne blerjet, koordinimin e prodhimit, kontrollin e cilesise dhe eksportet nderkombetare. Ne lidhim bleresit nderkombetare me prodhues te verifikuar, menaxhojme komunikimin ne gjuhe dhe zona kohore te ndryshme, dhe mbikeqyrim cdo faze nga perzgjedhja e furnitorit deri te dorezimi final. Qellimi yne eshte te ulim rrezikun e sourcing-ut, te rrisim transparencen dhe te garantojme cilesi te qendrueshme, duke i ndihmuar klientet te kursejne kohe dhe kosto.",
+    "relevanceTitle": "Cfare e ben GlobaLink te rendesishem per bleresit:",
+    "relevancePoints": [
+      "Identifikim dhe verifikim furnitoresh ne rrjete fabrikash te besueshme",
+      "Mbeshtejte per cmime, MOQ, afate prodhimi dhe negocim kontratash",
+      "Inspektime te cilesise para dergeses dhe ndjekje te prodhimit",
+      "Koordinim i plote i logjistikes dhe dokumentacionit te eksportit",
+      "Konsolidim porosish nga disa fabrika per te ulur kostot e transportit",
+      "Ure e vazhdueshme komunikimi midis bleresit dhe prodhuesit"
+    ],
+    "trustTitle": "Besim dhe ulje e rrezikut",
+    "trustDescription": "Ne i japim perparesi furnitoreve te verifikuar, raportimit te qarte dhe kontrollit te strukturuar te procesit per t'i ndihmuar klientet te shmangin probleme te zakonshme ne sourcing, si paqendrueshmeri cilesie, vonesa ne prodhim dhe komunikim jo te besueshem."
+  },
+  "services": {
+    "title": "Çfarë Bëjmë",
+    "items": [
+      {
+        "title": "Gjetja e furnitorëve dhe fabrikave",
+        "description": "Ne identifikojmë prodhues të besueshëm për lodra, elektronikë, tekstile, mobilje dhe materiale arsimore."
+      },
+      {
+        "title": "Negocimi i çmimeve dhe kontratave",
+        "description": "Ne ndihmojmë në negociimin e çmimeve konkurruese, kushteve të pagesës dhe afateve të prodhimit."
+      },
+      {
+        "title": "Kontrolli i cilësisë dhe inspektimet",
+        "description": "Ne koordinojmë kontrollet para dërgesës për të siguruar që produktet përmbushin standardet e kërkuara."
+      },
+      {
+        "title": "Menaxhimi i komunikimit",
+        "description": "Ne lidhim boshllëqet gjuhësore dhe kulturore mes blerësve dhe fabrikave gjatë gjithë prodhimit."
+      },
+      {
+        "title": "Koordinimi i logjistikës dhe eksportit",
+        "description": "Ne menaxhojmë transportin, dokumentacionin e eksportit, procedurat doganore, paketimin dhe dorëzimin."
+      },
+      {
+        "title": "Ulje e rrezikut dhe verifikim furnitorësh",
+        "description": "Ne punojmë me prodhues të verifikuar për të ulur rrezikun dhe shmangur furnitorët e pasigurt."
+      },
+      {
+        "title": "Konsolidimi i porosive",
+        "description": "Ne bashkojmë produkte nga disa fabrika në një eksport për të ulur koston e transportit dhe përmirësuar efikasitetin."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Galeria e Dërgesave të Produkteve",
+    "subtitle": "Një pamje paraprake. Zëvendësoni vendmbajtëset me fotot finale të produkteve nga assets."
+  },
+  "contact": {
+    "title": "Na Kontaktoni",
+    "addressLabel": "Adresa",
+    "emailLabel": "Email",
+    "hoursLabel": "Orari",
+    "address": "Përditësojeni me adresën e zyrës suaj",
+    "email": "info@globallink.com",
+    "hours": "Hën - Sht 09:00 - 18:00",
+    "formTitle": "Dërgoni Mesazh",
+    "fields": {
+      "name": "Emri",
+      "email": "Email",
+      "company": "Kompania (opsionale)",
+      "subject": "Subjekti",
+      "message": "Mesazhi"
+    },
+    "submit": "Dërgo",
+    "success": "Faleminderit. Mesazhi juaj u dërgua.",
+    "error": "Ju lutem plotësoni saktë të gjitha fushat e kërkuara."
+  },
+  "footer": {
+    "rights": "Të gjitha të drejtat e rezervuara."
+  }
+}

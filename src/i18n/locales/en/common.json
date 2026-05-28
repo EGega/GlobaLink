@@ -1,0 +1,91 @@
+{
+  "siteName": "GlobaLink",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Your trusted sourcing and export partner",
+    "subtitle": "GlobaLink is a China-based sourcing and trading partner that helps businesses simplify purchasing, production coordination, quality control, and international exports.",
+    "ctaPrimary": "View Services",
+    "ctaSecondary": "Contact Us"
+  },
+  "about": {
+    "title": "About GlobaLink",
+    "description": "GlobaLink is a China-based sourcing and trading partner that helps businesses simplify purchasing, production coordination, quality control, and international exports. We connect global buyers with verified manufacturers, manage communication across languages and time zones, and oversee each stage from supplier selection to final delivery. Our goal is to reduce sourcing risk, improve transparency, and ensure consistent product quality while helping clients save time and cost.",
+    "relevanceTitle": "What makes GlobaLink relevant to buyers:",
+    "relevancePoints": [
+      "Supplier identification and verification across trusted factory networks",
+      "Price, MOQ, lead-time, and contract negotiation support",
+      "Pre-shipment quality inspections and production follow-up",
+      "End-to-end logistics coordination and export documentation",
+      "Multi-factory order consolidation to reduce shipping costs",
+      "Ongoing communication bridge between buyer and manufacturer"
+    ],
+    "trustTitle": "Trust and risk-reduction angle",
+    "trustDescription": "We prioritize verified suppliers, clear reporting, and structured process control to help clients avoid common sourcing issues such as quality inconsistency, delayed production, and unreliable communication."
+  },
+  "services": {
+    "title": "What We Do",
+    "items": [
+      {
+        "title": "Supplier and factory sourcing",
+        "description": "We identify dependable manufacturers for toys, electronics, textiles, furniture, and educational materials."
+      },
+      {
+        "title": "Price and contract negotiation",
+        "description": "We help negotiate competitive pricing, payment terms, and production schedules."
+      },
+      {
+        "title": "Quality control and inspections",
+        "description": "We coordinate checks before shipment to ensure products meet required quality standards."
+      },
+      {
+        "title": "Communication management",
+        "description": "We bridge language and cultural gaps between buyers and factories throughout production."
+      },
+      {
+        "title": "Logistics and export coordination",
+        "description": "We manage shipping, export documents, customs procedures, packaging, and delivery coordination."
+      },
+      {
+        "title": "Risk reduction and supplier verification",
+        "description": "We work with verified manufacturers to reduce sourcing risk and avoid unreliable suppliers."
+      },
+      {
+        "title": "Order consolidation",
+        "description": "We combine products from multiple factories into one export to reduce transport cost and improve efficiency."
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Product Shipping Gallery",
+    "subtitle": "A preview grid. Replace placeholders with your final shipping product photos from assets."
+  },
+  "contact": {
+    "title": "Contact Us",
+    "addressLabel": "Address",
+    "emailLabel": "Email",
+    "hoursLabel": "Hours",
+    "address": "Update with your office address",
+    "email": "info@globallink.com",
+    "hours": "Mon - Sat 09:00 - 18:00",
+    "formTitle": "Send a Message",
+    "fields": {
+      "name": "Name",
+      "email": "Email",
+      "company": "Company (optional)",
+      "subject": "Subject",
+      "message": "Message"
+    },
+    "submit": "Send",
+    "success": "Thank you. Your message has been sent.",
+    "error": "Please complete all required fields correctly."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

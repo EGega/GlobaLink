@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <rect width="1200" height="800" fill="#fef3c7"/>
+  <rect x="80" y="120" width="1040" height="560" rx="20" fill="#92400e"/>
+  <text x="600" y="410" text-anchor="middle" font-size="56" fill="#ffffff" font-family="Arial, sans-serif">
+    Shipment Placeholder 2
+  </text>
+</svg>
